@@ -187,6 +187,4 @@ Details
  value 	0 wei
 ```
 
-## Copyright
 
-Copyright (c) 2018 Mark Szabo, Balazs Bodo. All rights reserved.
